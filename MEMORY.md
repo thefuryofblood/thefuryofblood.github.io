@@ -1,1 +1,0 @@
-- [Social icons updated](social-icons-updated.md) — I've replaced the social icons in both home.html and project-browser.html with the specific images from Google Drive as requested. The icons now use direct Google Drive links instead of simple-icons CDN links for LinkedIn, Itch.io, Sandbox, and YouTube.
